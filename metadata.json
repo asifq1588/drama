@@ -1,0 +1,6 @@
+{
+  "name": "ফ্রি ড্রামা - Free Drama",
+  "description": "প্রিমিয়াম শর্ট ড্রামা স্ট্রিমিং প্ল্যাটফর্ম ও অ্যাডমিন প্যানেল (DashReels স্টাইল)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
